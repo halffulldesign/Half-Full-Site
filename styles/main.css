@@ -1,0 +1,91 @@
+
+
+.About {
+    background-color: #ffffff;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.About h2 {
+    color: #393c3d;
+    font-size: 40px;
+    font-family: 'Open-Sans', 'sans-serif;
+    font-weight: 200;
+    letter-spacing: 0.02em;
+     display: inline-block;
+            padding: 0.5em;
+            border: black solid 2.3px;
+    margin-bottom: 40px;
+}
+    
+.About p {
+    font-size: 15px;
+    margin-bottom: 13px;
+    font-family: 'Open-Sans', 'sans-serif;
+}
+
+.nav {
+    padding-top: 25px;
+    background-color: #41dcbc;
+}
+
+.nav a {
+  margin-top: 20px;
+  color: #14a085;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-color: #41dcbc;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:-8px;
+    <!--the above value changes the distance between the logo and the text-->
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Open-sans', sans-serif;
+  font-weight: 400;
+    text-align: center;
+}
+
+.jumbotron p {
+    
+  font-size: 22px;
+  color: #14a085;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 200;
+}
+
+.learn-more {
+    border: 2px color black;
+  background-color: #f7f7f7;
+}
+
+.learn-more h2 {
+    font-family: 'Open-Sans', sans-serif;
+    font-size: 30px;
+}
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
